@@ -1,4 +1,4 @@
-package com.jeejava.kotlin.validate.email.regex
+package com.roytuts.kotlin.validate.email.regex
 
 class EmailValidator {
 	companion object {
